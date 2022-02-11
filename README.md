@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandomJCG
-- 👀 I’m interested in videogames, software developer and back end 
+- 👀 I’m interested in videogames, software developer and backend 
 - 🌱 I’m currently learning
 
 <!---
